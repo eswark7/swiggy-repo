@@ -1,0 +1,14 @@
+.container{
+    background-color: ORANGE;
+    color: WHITE;
+    text-align: center;
+    padding: 20px;
+}
+.button{
+    background-color: WHITE;
+    color: ORANGE;
+    border: 2px solid ORANGE;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+}
